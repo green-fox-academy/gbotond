@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\bin\Debug\netcoreapp1.1\Exercise-3.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\bin\Debug\netcoreapp1.1\Exercise-3.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\bin\Debug\netcoreapp1.1\Exercise-3.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\bin\Debug\netcoreapp1.1\Exercise-3.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\bin\Debug\netcoreapp1.1\Exercise-3.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\obj\Debug\netcoreapp1.1\Exercise-3.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\obj\Debug\netcoreapp1.1\Exercise-3.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\obj\Debug\netcoreapp1.1\Exercise-3.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\obj\Debug\netcoreapp1.1\Exercise-3.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\Exercise-3\Exercise-3\obj\Debug\netcoreapp1.1\Exercise-3.pdb
