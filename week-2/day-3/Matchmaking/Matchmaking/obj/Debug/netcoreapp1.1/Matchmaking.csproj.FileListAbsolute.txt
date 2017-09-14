@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\bin\Debug\netcoreapp1.1\Matchmaking.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\bin\Debug\netcoreapp1.1\Matchmaking.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\bin\Debug\netcoreapp1.1\Matchmaking.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\obj\Debug\netcoreapp1.1\Matchmaking.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\obj\Debug\netcoreapp1.1\Matchmaking.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\obj\Debug\netcoreapp1.1\Matchmaking.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\bin\Debug\netcoreapp1.1\Matchmaking.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\bin\Debug\netcoreapp1.1\Matchmaking.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\obj\Debug\netcoreapp1.1\Matchmaking.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Matchmaking\Matchmaking\obj\Debug\netcoreapp1.1\Matchmaking.pdb

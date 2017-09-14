@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\bin\Debug\netcoreapp1.1\IncrementElement.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\bin\Debug\netcoreapp1.1\IncrementElement.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\bin\Debug\netcoreapp1.1\IncrementElement.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\bin\Debug\netcoreapp1.1\IncrementElement.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\bin\Debug\netcoreapp1.1\IncrementElement.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\obj\Debug\netcoreapp1.1\IncrementElement.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\obj\Debug\netcoreapp1.1\IncrementElement.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\obj\Debug\netcoreapp1.1\IncrementElement.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\obj\Debug\netcoreapp1.1\IncrementElement.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\IncrementElement\IncrementElement\obj\Debug\netcoreapp1.1\IncrementElement.pdb

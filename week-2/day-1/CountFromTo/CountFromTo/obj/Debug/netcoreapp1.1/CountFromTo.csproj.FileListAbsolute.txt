@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\bin\Debug\netcoreapp1.1\CountFromTo.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\bin\Debug\netcoreapp1.1\CountFromTo.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\bin\Debug\netcoreapp1.1\CountFromTo.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\bin\Debug\netcoreapp1.1\CountFromTo.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\bin\Debug\netcoreapp1.1\CountFromTo.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\obj\Debug\netcoreapp1.1\CountFromTo.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\obj\Debug\netcoreapp1.1\CountFromTo.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\obj\Debug\netcoreapp1.1\CountFromTo.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\obj\Debug\netcoreapp1.1\CountFromTo.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\CountFromTo\CountFromTo\obj\Debug\netcoreapp1.1\CountFromTo.pdb

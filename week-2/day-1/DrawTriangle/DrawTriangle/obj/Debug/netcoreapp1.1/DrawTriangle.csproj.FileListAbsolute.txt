@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp1.1\DrawTriangle.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp1.1\DrawTriangle.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp1.1\DrawTriangle.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp1.1\DrawTriangle.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp1.1\DrawTriangle.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp1.1\DrawTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp1.1\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp1.1\DrawTriangle.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp1.1\DrawTriangle.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp1.1\DrawTriangle.pdb

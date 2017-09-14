@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\bin\Debug\netcoreapp1.1\BMI.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\bin\Debug\netcoreapp1.1\BMI.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\bin\Debug\netcoreapp1.1\BMI.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\bin\Debug\netcoreapp1.1\BMI.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\bin\Debug\netcoreapp1.1\BMI.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\obj\Debug\netcoreapp1.1\BMI.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\obj\Debug\netcoreapp1.1\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\obj\Debug\netcoreapp1.1\BMI.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\obj\Debug\netcoreapp1.1\BMI.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\BMI\BMI\obj\Debug\netcoreapp1.1\BMI.pdb

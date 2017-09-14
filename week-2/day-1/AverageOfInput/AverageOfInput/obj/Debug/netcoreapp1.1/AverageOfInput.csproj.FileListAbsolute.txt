@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp1.1\AverageOfInput.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp1.1\AverageOfInput.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp1.1\AverageOfInput.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp1.1\AverageOfInput.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp1.1\AverageOfInput.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp1.1\AverageOfInput.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp1.1\AverageOfInput.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp1.1\AverageOfInput.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp1.1\AverageOfInput.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp1.1\AverageOfInput.pdb

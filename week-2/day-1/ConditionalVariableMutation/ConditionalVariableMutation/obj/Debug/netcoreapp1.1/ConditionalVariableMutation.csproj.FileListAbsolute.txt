@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\netcoreapp1.1\ConditionalVariableMutation.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\netcoreapp1.1\ConditionalVariableMutation.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\netcoreapp1.1\ConditionalVariableMutation.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\netcoreapp1.1\ConditionalVariableMutation.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\netcoreapp1.1\ConditionalVariableMutation.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\netcoreapp1.1\ConditionalVariableMutation.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\netcoreapp1.1\ConditionalVariableMutation.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\netcoreapp1.1\ConditionalVariableMutation.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\netcoreapp1.1\ConditionalVariableMutation.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\netcoreapp1.1\ConditionalVariableMutation.pdb

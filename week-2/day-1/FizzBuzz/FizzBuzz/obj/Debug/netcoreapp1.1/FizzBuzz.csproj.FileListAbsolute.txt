@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.pdb

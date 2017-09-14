@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\bin\Debug\netcoreapp1.1\Factorial.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\bin\Debug\netcoreapp1.1\Factorial.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\bin\Debug\netcoreapp1.1\Factorial.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\bin\Debug\netcoreapp1.1\Factorial.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\bin\Debug\netcoreapp1.1\Factorial.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\obj\Debug\netcoreapp1.1\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\obj\Debug\netcoreapp1.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\obj\Debug\netcoreapp1.1\Factorial.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\obj\Debug\netcoreapp1.1\Factorial.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Factorial\Factorial\obj\Debug\netcoreapp1.1\Factorial.pdb

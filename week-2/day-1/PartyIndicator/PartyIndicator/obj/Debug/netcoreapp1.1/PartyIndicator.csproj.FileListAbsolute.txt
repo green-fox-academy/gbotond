@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp1.1\PartyIndicator.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp1.1\PartyIndicator.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp1.1\PartyIndicator.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp1.1\PartyIndicator.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp1.1\PartyIndicator.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp1.1\PartyIndicator.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp1.1\PartyIndicator.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp1.1\PartyIndicator.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp1.1\PartyIndicator.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp1.1\PartyIndicator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\bin\Debug\netcoreapp1.1\PrintBigger.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\bin\Debug\netcoreapp1.1\PrintBigger.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\bin\Debug\netcoreapp1.1\PrintBigger.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\bin\Debug\netcoreapp1.1\PrintBigger.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\bin\Debug\netcoreapp1.1\PrintBigger.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\obj\Debug\netcoreapp1.1\PrintBigger.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\obj\Debug\netcoreapp1.1\PrintBigger.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\obj\Debug\netcoreapp1.1\PrintBigger.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\obj\Debug\netcoreapp1.1\PrintBigger.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\PrintBigger\PrintBigger\obj\Debug\netcoreapp1.1\PrintBigger.pdb

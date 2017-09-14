@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\bin\Debug\netcoreapp1.1\CompareLength.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\bin\Debug\netcoreapp1.1\CompareLength.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\bin\Debug\netcoreapp1.1\CompareLength.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\bin\Debug\netcoreapp1.1\CompareLength.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\bin\Debug\netcoreapp1.1\CompareLength.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\obj\Debug\netcoreapp1.1\CompareLength.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\obj\Debug\netcoreapp1.1\CompareLength.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\obj\Debug\netcoreapp1.1\CompareLength.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\obj\Debug\netcoreapp1.1\CompareLength.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\CompareLength\CompareLength\obj\Debug\netcoreapp1.1\CompareLength.pdb

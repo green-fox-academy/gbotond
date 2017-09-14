@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\bin\Debug\netcoreapp1.1\ChangeElements.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\bin\Debug\netcoreapp1.1\ChangeElements.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\bin\Debug\netcoreapp1.1\ChangeElements.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\bin\Debug\netcoreapp1.1\ChangeElements.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\bin\Debug\netcoreapp1.1\ChangeElements.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\obj\Debug\netcoreapp1.1\ChangeElements.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\obj\Debug\netcoreapp1.1\ChangeElements.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\obj\Debug\netcoreapp1.1\ChangeElements.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\obj\Debug\netcoreapp1.1\ChangeElements.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\ChangeElements\ChangeElements\obj\Debug\netcoreapp1.1\ChangeElements.pdb

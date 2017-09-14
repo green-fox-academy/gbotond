@@ -6,17 +6,13 @@ namespace Exercise_8
     {
         static void Main(string[] args)
         {
-
-            int a = 4, b = 6;
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            a = a ^ b;
-            b = a ^ b;
-            a = a ^ b;
-            Console.WriteLine("After Swapping");
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-
+            int a = 123;
+            int b = 526;
+            int tempA = a;
+            a = b;
+            b = tempA;
+            Console.WriteLine("a = " + a);
+            Console.WriteLine("b = " + b);
             Console.ReadLine();
         }
     }

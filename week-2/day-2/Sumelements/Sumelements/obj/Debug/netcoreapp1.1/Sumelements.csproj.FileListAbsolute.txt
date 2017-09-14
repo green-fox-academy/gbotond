@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\bin\Debug\netcoreapp1.1\Sumelements.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\bin\Debug\netcoreapp1.1\Sumelements.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\bin\Debug\netcoreapp1.1\Sumelements.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\bin\Debug\netcoreapp1.1\Sumelements.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\bin\Debug\netcoreapp1.1\Sumelements.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\obj\Debug\netcoreapp1.1\Sumelements.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\obj\Debug\netcoreapp1.1\Sumelements.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\obj\Debug\netcoreapp1.1\Sumelements.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\obj\Debug\netcoreapp1.1\Sumelements.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Sumelements\Sumelements\obj\Debug\netcoreapp1.1\Sumelements.pdb

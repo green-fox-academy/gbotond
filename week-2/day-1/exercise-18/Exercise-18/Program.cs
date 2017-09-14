@@ -6,13 +6,18 @@ namespace Exercise_18
     {
         static void Main(string[] args)
         {
-            int i;
-            Console.WriteLine("enter a number");
-            while (int.TryParse(Console.ReadLine(), out i))
+            int a = 19;
+
+            if (a % 2 == 0)
             {
-                Console.WriteLine(i % 2 == 0 ? "even" : "odd");
-                Console.WriteLine("enter again");
+                Console.WriteLine("Even");
             }
+            else
+            {
+                Console.WriteLine("Odd");
+            }
+            Console.ReadLine();
+
         }
     }
 }

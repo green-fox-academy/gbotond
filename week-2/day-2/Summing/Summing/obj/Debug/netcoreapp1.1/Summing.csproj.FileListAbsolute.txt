@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\bin\Debug\netcoreapp1.1\Summing.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\bin\Debug\netcoreapp1.1\Summing.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\bin\Debug\netcoreapp1.1\Summing.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\bin\Debug\netcoreapp1.1\Summing.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\bin\Debug\netcoreapp1.1\Summing.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\obj\Debug\netcoreapp1.1\Summing.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\obj\Debug\netcoreapp1.1\Summing.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\obj\Debug\netcoreapp1.1\Summing.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\obj\Debug\netcoreapp1.1\Summing.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\Summing\Summing\obj\Debug\netcoreapp1.1\Summing.pdb

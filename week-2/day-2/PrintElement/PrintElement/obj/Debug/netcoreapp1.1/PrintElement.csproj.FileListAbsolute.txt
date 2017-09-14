@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\bin\Debug\netcoreapp1.1\PrintElement.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\bin\Debug\netcoreapp1.1\PrintElement.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\bin\Debug\netcoreapp1.1\PrintElement.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\bin\Debug\netcoreapp1.1\PrintElement.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\bin\Debug\netcoreapp1.1\PrintElement.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\obj\Debug\netcoreapp1.1\PrintElement.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\obj\Debug\netcoreapp1.1\PrintElement.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\obj\Debug\netcoreapp1.1\PrintElement.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\obj\Debug\netcoreapp1.1\PrintElement.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-2\PrintElement\PrintElement\obj\Debug\netcoreapp1.1\PrintElement.pdb

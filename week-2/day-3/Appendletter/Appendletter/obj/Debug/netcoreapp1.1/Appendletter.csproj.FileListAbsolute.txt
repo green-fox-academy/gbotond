@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\bin\Debug\netcoreapp1.1\Appendletter.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\bin\Debug\netcoreapp1.1\Appendletter.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\bin\Debug\netcoreapp1.1\Appendletter.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\bin\Debug\netcoreapp1.1\Appendletter.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\bin\Debug\netcoreapp1.1\Appendletter.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\obj\Debug\netcoreapp1.1\Appendletter.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\obj\Debug\netcoreapp1.1\Appendletter.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\obj\Debug\netcoreapp1.1\Appendletter.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\obj\Debug\netcoreapp1.1\Appendletter.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-3\Appendletter\Appendletter\obj\Debug\netcoreapp1.1\Appendletter.pdb

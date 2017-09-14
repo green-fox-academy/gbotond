@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp1.1\SecondsInADay.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp1.1\SecondsInADay.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp1.1\SecondsInADay.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp1.1\SecondsInADay.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp1.1\SecondsInADay.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp1.1\SecondsInADay.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp1.1\SecondsInADay.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp1.1\SecondsInADay.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp1.1\SecondsInADay.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp1.1\SecondsInADay.pdb
