@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\bin\Debug\netcoreapp1.1\CountLines.deps.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\bin\Debug\netcoreapp1.1\CountLines.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\bin\Debug\netcoreapp1.1\CountLines.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\bin\Debug\netcoreapp1.1\CountLines.dll
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\bin\Debug\netcoreapp1.1\CountLines.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\obj\Debug\netcoreapp1.1\CountLines.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\obj\Debug\netcoreapp1.1\CountLines.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\obj\Debug\netcoreapp1.1\CountLines.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\obj\Debug\netcoreapp1.1\CountLines.dll
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\CountLines\CountLines\obj\Debug\netcoreapp1.1\CountLines.pdb
