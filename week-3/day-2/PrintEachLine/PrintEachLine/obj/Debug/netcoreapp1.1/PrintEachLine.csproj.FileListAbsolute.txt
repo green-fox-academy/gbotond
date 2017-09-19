@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\bin\Debug\netcoreapp1.1\PrintEachLine.deps.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\bin\Debug\netcoreapp1.1\PrintEachLine.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\bin\Debug\netcoreapp1.1\PrintEachLine.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\obj\Debug\netcoreapp1.1\PrintEachLine.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\obj\Debug\netcoreapp1.1\PrintEachLine.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\obj\Debug\netcoreapp1.1\PrintEachLine.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\bin\Debug\netcoreapp1.1\PrintEachLine.dll
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\bin\Debug\netcoreapp1.1\PrintEachLine.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\obj\Debug\netcoreapp1.1\PrintEachLine.dll
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\PrintEachLine\PrintEachLine\obj\Debug\netcoreapp1.1\PrintEachLine.pdb
