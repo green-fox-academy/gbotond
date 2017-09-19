@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\WriteSingleLine\WriteSingleLine\bin\Debug\WriteSingleLine.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\WriteSingleLine\WriteSingleLine\bin\Debug\WriteSingleLine.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\WriteSingleLine\WriteSingleLine\bin\Debug\WriteSingleLine.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\WriteSingleLine\WriteSingleLine\obj\Debug\WriteSingleLine.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\WriteSingleLine\WriteSingleLine\obj\Debug\WriteSingleLine.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\WriteSingleLine\WriteSingleLine\obj\Debug\WriteSingleLine.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\WriteSingleLine\WriteSingleLine\obj\Debug\WriteSingleLine.pdb
