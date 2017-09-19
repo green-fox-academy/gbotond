@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.deps.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.dll
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.dll
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.pdb
