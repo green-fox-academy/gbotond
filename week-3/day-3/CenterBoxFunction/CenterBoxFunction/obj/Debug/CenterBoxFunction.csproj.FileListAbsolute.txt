@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\bin\Debug\CenterBoxFunction.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\bin\Debug\CenterBoxFunction.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\bin\Debug\CenterBoxFunction.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.pdb
