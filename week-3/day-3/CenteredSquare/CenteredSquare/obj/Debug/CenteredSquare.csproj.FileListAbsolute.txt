@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\bin\Debug\CenteredSquare.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\bin\Debug\CenteredSquare.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\bin\Debug\CenteredSquare.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.pdb
