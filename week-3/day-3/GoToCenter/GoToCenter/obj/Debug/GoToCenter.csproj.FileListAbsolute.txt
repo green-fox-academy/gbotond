@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\bin\Debug\GoToCenter.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\bin\Debug\GoToCenter.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\bin\Debug\GoToCenter.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\GoToCenter\GoToCenter\obj\Debug\GoToCenter.pdb
