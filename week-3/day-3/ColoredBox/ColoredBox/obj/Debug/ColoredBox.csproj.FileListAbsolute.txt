@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\bin\Debug\ColoredBox.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\bin\Debug\ColoredBox.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\bin\Debug\ColoredBox.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\ColoredBox\ColoredBox\obj\Debug\ColoredBox.pdb
