@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonals", "Diagonals\Diagonals.csproj", "{B02B9CB1-3191-4582-9E6F-0D2F0A4E2585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02B9CB1-3191-4582-9E6F-0D2F0A4E2585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02B9CB1-3191-4582-9E6F-0D2F0A4E2585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02B9CB1-3191-4582-9E6F-0D2F0A4E2585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02B9CB1-3191-4582-9E6F-0D2F0A4E2585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AA4994-896B-4D68-9338-52F062D42CC9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\bin\Debug\Diagonals.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\bin\Debug\Diagonals.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\bin\Debug\Diagonals.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\Diagonals\Diagonals\obj\Debug\Diagonals.pdb
