@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\bin\Debug\RainBowFunction.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\bin\Debug\RainBowFunction.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\bin\Debug\RainBowFunction.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\RainBowFunction\RainBowFunction\obj\Debug\RainBowFunction.pdb
