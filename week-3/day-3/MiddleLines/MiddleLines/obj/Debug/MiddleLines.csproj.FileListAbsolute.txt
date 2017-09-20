@@ -1,0 +1,14 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\bin\Debug\MiddleLines.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\bin\Debug\MiddleLines.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\bin\Debug\MiddleLines.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\MiddleLines\MiddleLines\obj\Debug\MiddleLines.pdb
