@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\bin\Debug\FourRectangles.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\bin\Debug\FourRectangles.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\bin\Debug\FourRectangles.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\FourRectangles\FourRectangles\obj\Debug\FourRectangles.pdb
