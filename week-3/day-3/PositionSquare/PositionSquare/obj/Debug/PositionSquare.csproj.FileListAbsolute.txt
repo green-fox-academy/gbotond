@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\bin\Debug\PositionSquare.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\bin\Debug\PositionSquare.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\bin\Debug\PositionSquare.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PositionSquare\PositionSquare\obj\Debug\PositionSquare.pdb
