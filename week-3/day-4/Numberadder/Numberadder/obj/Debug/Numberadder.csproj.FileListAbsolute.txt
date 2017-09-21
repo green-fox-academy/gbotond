@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Numberadder\Numberadder\bin\Debug\Numberadder.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Numberadder\Numberadder\bin\Debug\Numberadder.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Numberadder\Numberadder\bin\Debug\Numberadder.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Numberadder\Numberadder\obj\Debug\Numberadder.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Numberadder\Numberadder\obj\Debug\Numberadder.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Numberadder\Numberadder\obj\Debug\Numberadder.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Numberadder\Numberadder\obj\Debug\Numberadder.pdb
