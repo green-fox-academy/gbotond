@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\StringsAgainAndAgain.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\StringsAgainAndAgain.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\StringsAgainAndAgain.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\StringsAgainAndAgain.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\StringsAgainAndAgain.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\StringsAgainAndAgain.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\StringsAgainAndAgain.pdb
