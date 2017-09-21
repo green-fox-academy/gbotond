@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\bin\Debug\PurpleSteps3d.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\bin\Debug\PurpleSteps3d.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\bin\Debug\PurpleSteps3d.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-3\PurpleSteps3d\PurpleSteps3d\obj\Debug\PurpleSteps3d.csprojResolveAssemblyReference.cache
