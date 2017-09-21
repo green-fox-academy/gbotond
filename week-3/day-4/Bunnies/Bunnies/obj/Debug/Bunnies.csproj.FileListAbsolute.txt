@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Bunnies\Bunnies\bin\Debug\Bunnies.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Bunnies\Bunnies\bin\Debug\Bunnies.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Bunnies\Bunnies\bin\Debug\Bunnies.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Bunnies\Bunnies\obj\Debug\Bunnies.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Bunnies\Bunnies\obj\Debug\Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Bunnies\Bunnies\obj\Debug\Bunnies.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Bunnies\Bunnies\obj\Debug\Bunnies.pdb
