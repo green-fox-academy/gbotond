@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Power\Power\bin\Debug\Power.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Power\Power\bin\Debug\Power.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Power\Power\bin\Debug\Power.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Power\Power\obj\Debug\Power.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Power\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Power\Power\obj\Debug\Power.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Power\Power\obj\Debug\Power.pdb
