@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\Strings\Strings\obj\Debug\Strings.pdb
