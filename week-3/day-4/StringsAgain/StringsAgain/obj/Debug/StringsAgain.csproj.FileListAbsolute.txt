@@ -1,0 +1,6 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgain\StringsAgain\obj\Debug\StringsAgain.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgain\StringsAgain\bin\Debug\StringsAgain.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgain\StringsAgain\bin\Debug\StringsAgain.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgain\StringsAgain\bin\Debug\StringsAgain.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgain\StringsAgain\obj\Debug\StringsAgain.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-4\StringsAgain\StringsAgain\obj\Debug\StringsAgain.pdb
