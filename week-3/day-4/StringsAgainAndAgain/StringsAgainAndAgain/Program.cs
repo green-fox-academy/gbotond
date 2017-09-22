@@ -16,7 +16,7 @@ namespace StringsAgainAndAgain
         }
         public static string CharAdd(string str)
         {
-            if (str.Length < 1)
+            if (str.Length == 1)
             {
                 return str;
             }
