@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.pdb
