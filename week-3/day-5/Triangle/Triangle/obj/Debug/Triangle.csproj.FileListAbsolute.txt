@@ -1,0 +1,15 @@
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\App.g.cs
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle_MarkupCompile.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle_MarkupCompile.lref
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\MainWindow.baml
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle.g.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.Cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\Botond\greenfox\gbotond\week-3\day-5\Triangle\Triangle\obj\Debug\Triangle.pdb
