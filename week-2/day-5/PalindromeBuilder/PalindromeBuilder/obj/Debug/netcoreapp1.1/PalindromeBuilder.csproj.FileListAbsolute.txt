@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\bin\Debug\netcoreapp1.1\PalindromeBuilder.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\bin\Debug\netcoreapp1.1\PalindromeBuilder.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\bin\Debug\netcoreapp1.1\PalindromeBuilder.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\bin\Debug\netcoreapp1.1\PalindromeBuilder.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\bin\Debug\netcoreapp1.1\PalindromeBuilder.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\obj\Debug\netcoreapp1.1\PalindromeBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\obj\Debug\netcoreapp1.1\PalindromeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\obj\Debug\netcoreapp1.1\PalindromeBuilder.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\obj\Debug\netcoreapp1.1\PalindromeBuilder.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-5\PalindromeBuilder\PalindromeBuilder\obj\Debug\netcoreapp1.1\PalindromeBuilder.pdb
