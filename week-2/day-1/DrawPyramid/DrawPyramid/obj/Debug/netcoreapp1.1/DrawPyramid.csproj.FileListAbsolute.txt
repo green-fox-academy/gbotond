@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp1.1\DrawPyramid.deps.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp1.1\DrawPyramid.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp1.1\DrawPyramid.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp1.1\DrawPyramid.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp1.1\DrawPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp1.1\DrawPyramid.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp1.1\DrawPyramid.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp1.1\DrawPyramid.pdb
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp1.1\DrawPyramid.dll
+C:\Users\Botond\greenfox\gbotond\week-2\day-1\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp1.1\DrawPyramid.pdb
