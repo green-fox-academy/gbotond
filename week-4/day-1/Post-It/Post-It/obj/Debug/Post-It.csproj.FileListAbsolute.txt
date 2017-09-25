@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\Post-It\Post-It\bin\Debug\Post-It.exe.config
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\Post-It\Post-It\bin\Debug\Post-It.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\Post-It\Post-It\bin\Debug\Post-It.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\Post-It\Post-It\obj\Debug\Post-It.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\Post-It\Post-It\obj\Debug\Post-It.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\Post-It\Post-It\obj\Debug\Post-It.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\Post-It\Post-It\obj\Debug\Post-It.pdb
