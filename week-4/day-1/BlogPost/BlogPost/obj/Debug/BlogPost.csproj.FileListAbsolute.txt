@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\BlogPost\BlogPost\bin\Debug\BlogPost.exe.config
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\BlogPost\BlogPost\bin\Debug\BlogPost.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\BlogPost\BlogPost\bin\Debug\BlogPost.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\BlogPost\BlogPost\obj\Debug\BlogPost.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\BlogPost\BlogPost\obj\Debug\BlogPost.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\BlogPost\BlogPost\obj\Debug\BlogPost.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-1\BlogPost\BlogPost\obj\Debug\BlogPost.pdb
