@@ -1,0 +1,8 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\bin\Debug\CountLetters.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\bin\Debug\CountLetters.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\obj\Debug\CountLetters.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\obj\Debug\CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\obj\Debug\CountLetters.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\obj\Debug\CountLetters.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\bin\Debug\nunit.framework.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\CountLetters\CountLetters\bin\Debug\nunit.framework.xml
