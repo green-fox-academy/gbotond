@@ -1,0 +1,10 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\bin\Debug\SumTest.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\bin\Debug\SumTest.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\bin\Debug\nunit.framework.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\bin\Debug\nunit.framework.xml
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\obj\Debug\SumTest.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\obj\Debug\SumTest.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\obj\Debug\SumTest.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\obj\Debug\SumTest.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\bin\Debug\Sum.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\SumTest\bin\Debug\Sum.pdb

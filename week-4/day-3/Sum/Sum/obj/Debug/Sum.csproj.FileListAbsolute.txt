@@ -1,0 +1,6 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\Sum\bin\Debug\Sum.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\Sum\bin\Debug\Sum.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\Sum\obj\Debug\Sum.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\Sum\obj\Debug\Sum.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Sum\Sum\obj\Debug\Sum.pdb
