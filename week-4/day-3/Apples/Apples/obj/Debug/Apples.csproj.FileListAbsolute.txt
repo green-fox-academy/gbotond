@@ -1,0 +1,8 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\bin\Debug\Apples.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\bin\Debug\Apples.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\bin\Debug\nunit.framework.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\bin\Debug\nunit.framework.xml
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\obj\Debug\Apples.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\obj\Debug\Apples.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\obj\Debug\Apples.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Apples\Apples\obj\Debug\Apples.pdb
