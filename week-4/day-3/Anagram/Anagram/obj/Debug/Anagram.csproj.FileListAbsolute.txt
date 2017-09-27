@@ -1,0 +1,8 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\bin\Debug\Anagram.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\bin\Debug\Anagram.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\bin\Debug\nunit.framework.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\bin\Debug\nunit.framework.xml
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\obj\Debug\Anagram.dll
+C:\Users\Botond\greenfox\gbotond\week-4\day-3\Anagram\Anagram\obj\Debug\Anagram.pdb
