@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\Homework\Homework\obj\Debug\Homework.pdb
