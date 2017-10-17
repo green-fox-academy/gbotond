@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\GreenfoxOrganization\GreenfoxOrganization\bin\Debug\GreenfoxOrganization.exe.config
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\GreenfoxOrganization\GreenfoxOrganization\bin\Debug\GreenfoxOrganization.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\GreenfoxOrganization\GreenfoxOrganization\bin\Debug\GreenfoxOrganization.pdb
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\GreenfoxOrganization\GreenfoxOrganization\obj\Debug\GreenfoxOrganization.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\GreenfoxOrganization\GreenfoxOrganization\obj\Debug\GreenfoxOrganization.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\GreenfoxOrganization\GreenfoxOrganization\obj\Debug\GreenfoxOrganization.exe
+C:\Users\Botond\greenfox\gbotond\week-4\day-2\GreenfoxOrganization\GreenfoxOrganization\obj\Debug\GreenfoxOrganization.pdb
