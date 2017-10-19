@@ -1,0 +1,7 @@
+C:\Users\Botond\greenfox\gbotond\week-6\day-4\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\Users\Botond\greenfox\gbotond\week-6\day-4\ParkingLot\ParkingLot\bin\Debug\ParkingLot.exe
+C:\Users\Botond\greenfox\gbotond\week-6\day-4\ParkingLot\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\Users\Botond\greenfox\gbotond\week-6\day-4\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-6\day-4\ParkingLot\ParkingLot\obj\Debug\ParkingLot.exe
+C:\Users\Botond\greenfox\gbotond\week-6\day-4\ParkingLot\ParkingLot\obj\Debug\ParkingLot.pdb
+C:\Users\Botond\greenfox\gbotond\week-6\day-4\ParkingLot\ParkingLot\obj\Debug\ParkingLot.csprojResolveAssemblyReference.cache
