@@ -19,15 +19,9 @@ namespace TutorialExercise.Controllers
         }
 
         [Route("greeting")]
-        public IActionResult Greeting()
+        public IActionResult Greeting(string name)
         {
-            Greeting greeting = new Greeting()
-            {
-                Id = 1,
-                content = "Hello .netWorld!"
-            };
-
-            return new JsonResult(greeting);
+            return new JsonResult(new Greeting { Id = 1 , content = "Hello " + name });
         }
     }
 }
