@@ -7,7 +7,12 @@ namespace TutorialExercise.Models
 {
     public class Greeting
     {
-        public long Id;
+        public long Id { get; internal set; }
         public string content;
+
+        public Greeting()
+        {
+            this.Id = Id++;
+        }
     }
 }

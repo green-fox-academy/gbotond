@@ -9,8 +9,8 @@ using TutorialExercise.Models;
 
 namespace TutorialExercise.Controllers
 {
-    [Route("api")]
-    public class RESTController : Controller
+    [Route("web")]
+    public class WebController : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()
@@ -22,8 +22,13 @@ namespace TutorialExercise.Controllers
         public IActionResult Greeting(string name)
         {
             Startup.numberOfApiCalls++;
+            var greeting = new Greeting()
+            {
+                Id = Startup.numberOfApiCalls,
+                content = name
+            };
 
-            return new JsonResult(new Greeting { Id = Startup.numberOfApiCalls, content = $"Hello, {name}!" });
+            return View(greeting);
         }
     }
 }
