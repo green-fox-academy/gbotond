@@ -19,8 +19,8 @@ namespace BankofSimba.Controllers
             {
                 Name = "Simba",
                 Balance = 2000,
-                AnimalType = AnimalType.Lion
-
+                AnimalType = AnimalType.Lion,
+                Currency = "Zebra"
             };
             return View(bankAccount);
         }

@@ -8,7 +8,8 @@ namespace BankofSimba.Models
     public class BankAccount
     {
         public string Name { get; set; }
-        public int Balance { get; set; }
+        public decimal Balance { get; set; }
         public AnimalType AnimalType { get; set; }
+        public string Currency { get; set; }
     }
 }
