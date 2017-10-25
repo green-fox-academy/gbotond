@@ -1,0 +1,31 @@
+﻿@model BankofSimba.Models.Bank
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <table>
+        @{ var index = 0;}
+        @foreach (var bankAccount in Model.Accounts)
+        {
+            <tr>
+                <td>@(++index)</td>
+                <td>
+                    @if (bankAccount.isKing)
+                    {
+                        <p style="color: yellow"> King @bankAccount.Name </p>
+                    }
+                    else
+                    {
+                        @bankAccount.Name
+                    }
+                </td>
+                <td>@String.Format("{0:0.00}", bankAccount.Balance) @bankAccount.Currency  </td>
+                <td>@bankAccount.AnimalType  </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+
