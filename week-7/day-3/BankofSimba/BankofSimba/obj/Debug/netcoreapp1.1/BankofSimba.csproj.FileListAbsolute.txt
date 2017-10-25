@@ -1,0 +1,8 @@
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\bin\Debug\netcoreapp1.1\BankofSimba.deps.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\bin\Debug\netcoreapp1.1\BankofSimba.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\bin\Debug\netcoreapp1.1\BankofSimba.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\bin\Debug\netcoreapp1.1\BankofSimba.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\obj\Debug\netcoreapp1.1\BankofSimba.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\obj\Debug\netcoreapp1.1\BankofSimba.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\obj\Debug\netcoreapp1.1\BankofSimba.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-3\BankofSimba\BankofSimba\obj\Debug\netcoreapp1.1\BankofSimba.AssemblyInfo.cs
