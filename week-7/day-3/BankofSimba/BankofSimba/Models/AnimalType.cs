@@ -10,6 +10,7 @@ namespace BankofSimba.Models
         Lion,
         Meerkat,
         Warthog,
-        Baboon
+        Mandrill,
+        Hornbill
     }
 }

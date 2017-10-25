@@ -11,10 +11,12 @@
         {
             <tr>
                 <td>@(++index)</td>
+                <td><p>@(bankAccount.isGood ? "Good One" : "Bad Guy") </p></td>
+                <td><p>@(bankAccount.isKing ? "King" : "") </p></td> 
                 <td>
                     @if (bankAccount.isKing)
                     {
-                        <p style="color: yellow"> King @bankAccount.Name </p>
+                        <p style="color: yellow"> @bankAccount.Name </p>
                     }
                     else
                     {

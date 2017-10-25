@@ -36,7 +36,8 @@ namespace BankofSimba.Controllers
                 Balance = 2000,
                 AnimalType = AnimalType.Lion,
                 Currency = "Zebra",
-                isKing = true
+                isKing = true,
+                isGood = true
             });
             BankOfSimba.Accounts.Add(new BankAccount()
             {
@@ -44,7 +45,8 @@ namespace BankofSimba.Controllers
                 Balance = 5000,
                 AnimalType = AnimalType.Meerkat,
                 Currency = "Bug",
-                isKing = false
+                isKing = false,
+                isGood = true
             });
             BankOfSimba.Accounts.Add(new BankAccount()
             {
@@ -52,15 +54,37 @@ namespace BankofSimba.Controllers
                 Balance = 500,
                 AnimalType = AnimalType.Warthog,
                 Currency = "Fruit",
-                isKing = false
+                isKing = false,
+                isGood = true
             });
             BankOfSimba.Accounts.Add(new BankAccount()
             {
                 Name = "Rafiki",
                 Balance = 3000,
-                AnimalType = AnimalType.Baboon,
+                AnimalType = AnimalType.Mandrill,
                 Currency = "Fruit",
-                isKing = false
+                isKing = false,
+                isGood = true
+            });
+
+            BankOfSimba.Accounts.Add(new BankAccount()
+            {
+                Name = "Zazu",
+                Balance = 8000,
+                AnimalType = AnimalType.Hornbill,
+                Currency = "Seed",
+                isKing = false,
+                isGood = true
+            });
+
+            BankOfSimba.Accounts.Add(new BankAccount()
+            {
+                Name = "Scar",
+                Balance = 1000,
+                AnimalType = AnimalType.Lion,
+                Currency = "Zebra",
+                isKing = false,
+                isGood = false
             });
 
             return View(BankOfSimba);

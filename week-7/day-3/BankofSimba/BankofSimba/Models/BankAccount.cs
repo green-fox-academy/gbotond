@@ -12,5 +12,6 @@ namespace BankofSimba.Models
         public AnimalType AnimalType { get; set; }
         public string Currency { get; set; }
         public bool isKing { get; set; }
+        public bool isGood { get; set; }
     }
 }
