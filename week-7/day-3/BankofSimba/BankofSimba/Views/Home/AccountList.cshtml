@@ -2,9 +2,25 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 600px;
+        height: 150px;
+    }
+
+    table, th, td {
+        border: 3px solid black;
+    }
+</style>
 </head>
 <body>
+<style>
+    body {
+        background-image: url("https://a.dilcdn.com/bl/wp-content/uploads/sites/25/2015/08/Screen-Shot-2015-08-07-at-11.28.29-AM.jpg");
+        background-size: 100% 100%;
+    }
+</style>
     <table>
         @{ var index = 0;}
         @foreach (var bankAccount in Model.Accounts)
