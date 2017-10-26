@@ -1,4 +1,7 @@
-﻿body{
+﻿body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("https://i.pinimg.com/736x/49/a5/f8/49a5f837b36686d2fe4b2f540faf59e2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
 }
