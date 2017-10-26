@@ -1,0 +1,11 @@
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\bin\Debug\netcoreapp1.1\CounterApp.deps.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\bin\Debug\netcoreapp1.1\CounterApp.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\bin\Debug\netcoreapp1.1\CounterApp.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\bin\Debug\netcoreapp1.1\CounterApp.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\obj\Debug\netcoreapp1.1\CounterApp.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\obj\Debug\netcoreapp1.1\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\obj\Debug\netcoreapp1.1\CounterApp.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\obj\Debug\netcoreapp1.1\CounterApp.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\bin\Debug\netcoreapp1.1\CounterApp.pdb
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\obj\Debug\netcoreapp1.1\CounterApp.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\CounterApp\CounterApp\obj\Debug\netcoreapp1.1\CounterApp.pdb
