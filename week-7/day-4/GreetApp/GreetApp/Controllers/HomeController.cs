@@ -13,13 +13,30 @@ namespace GreetApp.Controllers
     {
         Greet greet;
 
-
+        public HomeController(Greet greet)
+        {
+            this.greet = greet;
+        }
 
         [HttpGet]
-        [Route("index")]
+        [Route("/")]
         public IActionResult Index()
         {
-            return View();
+            return View(greet);
+        }
+
+        [HttpPost]
+        [Route("/")]
+        public IActionResult Continue(Greet greet)
+        {
+            return RedirectToAction("Greet", greet);
+        }
+
+        [HttpGet]
+        [Route("greet")]
+        public IActionResult Greet(Greet greet)
+        {
+            return View(greet);
         }
     }
 }

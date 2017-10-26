@@ -17,6 +17,7 @@ namespace GreetApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddSingleton<Models.Greet>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -24,12 +25,13 @@ namespace GreetApp
         {
             loggerFactory.AddConsole();
 
-            app.UseMvcWithDefaultRoute();
 
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseMvcWithDefaultRoute();
 
             app.Run(async (context) =>
             {

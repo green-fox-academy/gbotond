@@ -6,3 +6,6 @@ C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcor
 C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.csproj.CoreCompileInputs.cache
 C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.AssemblyInfoInputs.cache
 C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\bin\Debug\netcoreapp1.1\GreetApp.pdb
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.pdb
