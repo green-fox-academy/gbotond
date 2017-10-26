@@ -25,7 +25,6 @@ namespace GreetApp
         {
             loggerFactory.AddConsole();
 
-
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
