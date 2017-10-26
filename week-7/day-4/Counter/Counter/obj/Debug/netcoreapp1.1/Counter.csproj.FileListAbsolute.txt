@@ -1,0 +1,8 @@
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.deps.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.AssemblyInfo.cs
