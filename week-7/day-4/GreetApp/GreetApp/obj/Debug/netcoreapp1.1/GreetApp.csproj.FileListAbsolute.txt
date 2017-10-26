@@ -1,0 +1,8 @@
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\bin\Debug\netcoreapp1.1\GreetApp.deps.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\bin\Debug\netcoreapp1.1\GreetApp.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\bin\Debug\netcoreapp1.1\GreetApp.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\bin\Debug\netcoreapp1.1\GreetApp.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\GreetApp\GreetApp\obj\Debug\netcoreapp1.1\GreetApp.AssemblyInfo.cs
