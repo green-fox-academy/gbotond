@@ -1,0 +1,11 @@
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\bin\Debug\netcoreapp1.1\TodoApp.deps.json
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\bin\Debug\netcoreapp1.1\TodoApp.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\bin\Debug\netcoreapp1.1\TodoApp.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\bin\Debug\netcoreapp1.1\TodoApp.dll
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\bin\Debug\netcoreapp1.1\TodoApp.pdb
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\obj\Debug\netcoreapp1.1\TodoApp.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\obj\Debug\netcoreapp1.1\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\obj\Debug\netcoreapp1.1\TodoApp.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\obj\Debug\netcoreapp1.1\TodoApp.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\obj\Debug\netcoreapp1.1\TodoApp.dll
+C:\Users\Botond\greenfox\gbotond\week-8\day-1\Todo\Todo\obj\Debug\netcoreapp1.1\TodoApp.pdb
