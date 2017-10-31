@@ -14,6 +14,6 @@ namespace TodoApp.Entities
 
         }
 
-        public DbSet<Todo> Todo { get; set; }
+        public DbSet<Todo> Todos { get; set; }
     }
 }

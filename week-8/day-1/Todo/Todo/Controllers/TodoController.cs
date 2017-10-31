@@ -13,13 +13,25 @@ namespace TodoApp.Controllers
     [Route("/Todo")]
     public class TodoController : Controller
     {
-        TodoRepository todoRepository;
+        TodoRepository TodoRepository;
+
+        public TodoController(TodoRepository todoRepository)
+        {
+            TodoRepository = todoRepository;
+        }
 
         [Route("/")]
         [Route("/list")]
         public IActionResult List()
         {
             return View();
+        }
+
+        [Route("/add")]
+        public IActionResult AddTodos()
+        {
+            TodoRepository.AddTodo();
+            return RedirectToAction("list");
         }
     }
 }
