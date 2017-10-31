@@ -17,11 +17,9 @@ namespace TodoApp.Controllers
 
         [Route("/")]
         [Route("/list")]
-        [HttpGet]
         public IActionResult List()
         {
-            string first = "This is my first todo";
-            return View((object)first);
+            return View();
         }
     }
 }
