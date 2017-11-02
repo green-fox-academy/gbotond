@@ -10,16 +10,12 @@ namespace AnagramApp.Models
         public string firstWord { get; set; }
         public string secondWord { get; set; }
 
-        public void AnagramChecker(string first, string second)
+        public bool IsAnagram()
         {
-            if (String.Concat(first.OrderBy(c => c)).Equals(String.Concat(second.OrderBy(c => c))))
-            {
-                Console.WriteLine("Yes");
-            }
-            else
-            {
-                Console.WriteLine("No");
-            }
+            string first = String.Concat(firstWord.OrderBy(c => c));
+            string second = String.Concat(secondWord.OrderBy(c => c));
+
+            return first == second;
         }
     }
 }

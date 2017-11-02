@@ -24,5 +24,22 @@ namespace AnagramApp.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        [Route("Anagram")]
+        public IActionResult IsAnagram(string word1, string word2)
+        {
+            anagram.firstWord = word1;
+            anagram.secondWord = word2;
+
+            return RedirectToAction("anagram");
+        }
+
+        [HttpGet]
+        [Route("Anagram")]
+        public IActionResult Anagram()
+        {
+            return View(anagram);
+        }
     }
 }
