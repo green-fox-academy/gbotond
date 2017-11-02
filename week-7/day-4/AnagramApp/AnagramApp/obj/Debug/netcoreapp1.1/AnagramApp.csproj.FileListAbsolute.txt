@@ -1,0 +1,11 @@
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\bin\Debug\netcoreapp1.1\AnagramApp.deps.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\bin\Debug\netcoreapp1.1\AnagramApp.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\bin\Debug\netcoreapp1.1\AnagramApp.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\bin\Debug\netcoreapp1.1\AnagramApp.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\obj\Debug\netcoreapp1.1\AnagramApp.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\obj\Debug\netcoreapp1.1\AnagramApp.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\obj\Debug\netcoreapp1.1\AnagramApp.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\obj\Debug\netcoreapp1.1\AnagramApp.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\bin\Debug\netcoreapp1.1\AnagramApp.pdb
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\obj\Debug\netcoreapp1.1\AnagramApp.dll
+C:\Users\Botond\greenfox\gbotond\week-7\day-4\AnagramApp\AnagramApp\obj\Debug\netcoreapp1.1\AnagramApp.pdb
