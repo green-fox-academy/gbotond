@@ -17,6 +17,7 @@ namespace BankofSimba
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddSingleton<Models.Bank>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -24,12 +25,12 @@ namespace BankofSimba
         {
             loggerFactory.AddConsole();
 
-            app.UseMvcWithDefaultRoute();
-
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseMvc();
 
             app.Run(async (context) =>
             {

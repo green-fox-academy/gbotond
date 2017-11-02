@@ -11,83 +11,26 @@ namespace BankofSimba.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: /<controller>/
-        [Route("Simba")]
-        public IActionResult Index()
+        Bank bank;
+
+        public HomeController(Bank bank)
         {
-            BankAccount bankAccount = new BankAccount()
-            {
-                Name = "Simba",
-                Balance = 2000,
-                AnimalType = AnimalType.Lion,
-                Currency = "Zebra"
-            };
-            return View(bankAccount);
+            this.bank = bank;
         }
 
+        [HttpGet]
         [Route("Accounts")]
         public IActionResult AccountList()
         {
-            Bank BankOfSimba = new Bank();
+            return View(bank);
+        }
 
-            BankOfSimba.Accounts.Add(new BankAccount()
-            {
-                Name = "Simba",
-                Balance = 2000,
-                AnimalType = AnimalType.Lion,
-                Currency = "Zebra",
-                isKing = true,
-                isGood = true
-            });
-            BankOfSimba.Accounts.Add(new BankAccount()
-            {
-                Name = "Timon",
-                Balance = 5000,
-                AnimalType = AnimalType.Meerkat,
-                Currency = "Bug",
-                isKing = false,
-                isGood = true
-            });
-            BankOfSimba.Accounts.Add(new BankAccount()
-            {
-                Name = "Pumba",
-                Balance = 500,
-                AnimalType = AnimalType.Warthog,
-                Currency = "Fruit",
-                isKing = false,
-                isGood = true
-            });
-            BankOfSimba.Accounts.Add(new BankAccount()
-            {
-                Name = "Rafiki",
-                Balance = 3000,
-                AnimalType = AnimalType.Mandrill,
-                Currency = "Fruit",
-                isKing = false,
-                isGood = true
-            });
-
-            BankOfSimba.Accounts.Add(new BankAccount()
-            {
-                Name = "Zazu",
-                Balance = 8000,
-                AnimalType = AnimalType.Hornbill,
-                Currency = "Seed",
-                isKing = false,
-                isGood = true
-            });
-
-            BankOfSimba.Accounts.Add(new BankAccount()
-            {
-                Name = "Scar",
-                Balance = 1000,
-                AnimalType = AnimalType.Lion,
-                Currency = "Zebra",
-                isKing = false,
-                isGood = false
-            });
-
-            return View(BankOfSimba);
+        [HttpPost]
+        [Route("Accounts")]
+        public IActionResult MyAction()
+        {
+            bank.Raise();
+            return RedirectToAction("accounts");
         }
     }
 }

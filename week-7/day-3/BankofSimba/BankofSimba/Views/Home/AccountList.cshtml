@@ -17,33 +17,36 @@
 <body>
 <style>
     body {
-        background-image: url("https://a.dilcdn.com/bl/wp-content/uploads/sites/25/2015/08/Screen-Shot-2015-08-07-at-11.28.29-AM.jpg");
+        background-image: url("https://media.giphy.com/media/fiJRJ6BlNrKuI/giphy.gif");
         background-size: 100% 100%;
     }
 </style>
     <table>
-        @{ var index = 0;}
-        @foreach (var bankAccount in Model.Accounts)
-        {
-            <tr>
+        <tr>
+            <td>Index</td>
+            <td>Name</td>
+            <td>Species</td>
+            <td>Wealth in Zebras</td>
+            <td>Role</td>
+            <td>Donate</td>
+        </tr>
+        @{ int index = 0; }
+        @foreach (var account in Model.Accounts)
+            {
+            <tr style="@((@account.IsKing) ? "color:gold" : "color:grey") ">
                 <td>@(++index)</td>
-                <td><p>@(bankAccount.isGood ? "Good One" : "Bad Guy") </p></td>
-                <td><p>@(bankAccount.isKing ? "King" : "") </p></td> 
-                <td>
-                    @if (bankAccount.isKing)
-                    {
-                        <p style="color: yellow"> @bankAccount.Name </p>
-                    }
-                    else
-                    {
-                        @bankAccount.Name
-                    }
-                </td>
-                <td>@String.Format("{0:0.00}", bankAccount.Balance) @bankAccount.Currency  </td>
-                <td>@bankAccount.AnimalType  </td>
+                <td>@account.Name</td>
+                <td>@account.AnimalType</td>
+                <td>@account.Balance.ToString("0.00") @account.Currency</td>
+                <td>@((@account.IsGood) ? "Good One" : "Bad Guy")</td>
+                @using (Html.BeginForm("action", "home"))
+                {
+                    <td><input type="submit" value="Raise" /></td>
+                }
             </tr>
         }
     </table>
+
 </body>
 </html>
 
