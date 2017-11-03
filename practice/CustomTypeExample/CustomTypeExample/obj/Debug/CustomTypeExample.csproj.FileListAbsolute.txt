@@ -1,0 +1,7 @@
+C:\Users\Botond\Documents\GF\practice\CustomTypeExample\CustomTypeExample\bin\Debug\CustomTypeExample.exe.config
+C:\Users\Botond\Documents\GF\practice\CustomTypeExample\CustomTypeExample\bin\Debug\CustomTypeExample.exe
+C:\Users\Botond\Documents\GF\practice\CustomTypeExample\CustomTypeExample\bin\Debug\CustomTypeExample.pdb
+C:\Users\Botond\Documents\GF\practice\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.csprojResolveAssemblyReference.cache
+C:\Users\Botond\Documents\GF\practice\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.exe
+C:\Users\Botond\Documents\GF\practice\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.pdb
