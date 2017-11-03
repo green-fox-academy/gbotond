@@ -1,0 +1,6 @@
+C:\Users\Botond\Documents\GF\practice\AirCraftCarrier\AirCraftCarrier\bin\Debug\AirCraftCarrier.exe.config
+C:\Users\Botond\Documents\GF\practice\AirCraftCarrier\AirCraftCarrier\bin\Debug\AirCraftCarrier.exe
+C:\Users\Botond\Documents\GF\practice\AirCraftCarrier\AirCraftCarrier\bin\Debug\AirCraftCarrier.pdb
+C:\Users\Botond\Documents\GF\practice\AirCraftCarrier\AirCraftCarrier\obj\Debug\AirCraftCarrier.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\AirCraftCarrier\AirCraftCarrier\obj\Debug\AirCraftCarrier.exe
+C:\Users\Botond\Documents\GF\practice\AirCraftCarrier\AirCraftCarrier\obj\Debug\AirCraftCarrier.pdb
