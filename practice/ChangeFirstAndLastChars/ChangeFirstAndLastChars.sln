@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeFirstAndLastChars", "ChangeFirstAndLastChars\ChangeFirstAndLastChars.csproj", "{D79C9287-74EE-4B50-9787-FB3978F57CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79C9287-74EE-4B50-9787-FB3978F57CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79C9287-74EE-4B50-9787-FB3978F57CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79C9287-74EE-4B50-9787-FB3978F57CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79C9287-74EE-4B50-9787-FB3978F57CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB19CC1A-5381-47AC-8AA7-8519E2D6D52C}
+	EndGlobalSection
+EndGlobal

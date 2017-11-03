@@ -1,0 +1,7 @@
+C:\Users\Botond\Documents\GF\practice\ChangeFirstAndLastChars\ChangeFirstAndLastChars\bin\Debug\ChangeFirstAndLastChars.exe.config
+C:\Users\Botond\Documents\GF\practice\ChangeFirstAndLastChars\ChangeFirstAndLastChars\bin\Debug\ChangeFirstAndLastChars.exe
+C:\Users\Botond\Documents\GF\practice\ChangeFirstAndLastChars\ChangeFirstAndLastChars\bin\Debug\ChangeFirstAndLastChars.pdb
+C:\Users\Botond\Documents\GF\practice\ChangeFirstAndLastChars\ChangeFirstAndLastChars\obj\Debug\ChangeFirstAndLastChars.csprojResolveAssemblyReference.cache
+C:\Users\Botond\Documents\GF\practice\ChangeFirstAndLastChars\ChangeFirstAndLastChars\obj\Debug\ChangeFirstAndLastChars.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\ChangeFirstAndLastChars\ChangeFirstAndLastChars\obj\Debug\ChangeFirstAndLastChars.exe
+C:\Users\Botond\Documents\GF\practice\ChangeFirstAndLastChars\ChangeFirstAndLastChars\obj\Debug\ChangeFirstAndLastChars.pdb
