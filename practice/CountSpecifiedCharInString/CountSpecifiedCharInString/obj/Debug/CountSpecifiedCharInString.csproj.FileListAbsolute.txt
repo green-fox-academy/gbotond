@@ -1,0 +1,7 @@
+C:\Users\Botond\Documents\GF\practice\CountSpecifiedCharInString\CountSpecifiedCharInString\bin\Debug\CountSpecifiedCharInString.exe.config
+C:\Users\Botond\Documents\GF\practice\CountSpecifiedCharInString\CountSpecifiedCharInString\bin\Debug\CountSpecifiedCharInString.exe
+C:\Users\Botond\Documents\GF\practice\CountSpecifiedCharInString\CountSpecifiedCharInString\bin\Debug\CountSpecifiedCharInString.pdb
+C:\Users\Botond\Documents\GF\practice\CountSpecifiedCharInString\CountSpecifiedCharInString\obj\Debug\CountSpecifiedCharInString.csprojResolveAssemblyReference.cache
+C:\Users\Botond\Documents\GF\practice\CountSpecifiedCharInString\CountSpecifiedCharInString\obj\Debug\CountSpecifiedCharInString.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\CountSpecifiedCharInString\CountSpecifiedCharInString\obj\Debug\CountSpecifiedCharInString.exe
+C:\Users\Botond\Documents\GF\practice\CountSpecifiedCharInString\CountSpecifiedCharInString\obj\Debug\CountSpecifiedCharInString.pdb
