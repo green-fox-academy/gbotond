@@ -1,0 +1,7 @@
+C:\Users\Botond\Documents\GF\practice\AddFirstCharToTheFrontAndBack\AddFirstCharToTheFrontAndBack\bin\Debug\AddFirstCharToTheFrontAndBack.exe.config
+C:\Users\Botond\Documents\GF\practice\AddFirstCharToTheFrontAndBack\AddFirstCharToTheFrontAndBack\bin\Debug\AddFirstCharToTheFrontAndBack.exe
+C:\Users\Botond\Documents\GF\practice\AddFirstCharToTheFrontAndBack\AddFirstCharToTheFrontAndBack\bin\Debug\AddFirstCharToTheFrontAndBack.pdb
+C:\Users\Botond\Documents\GF\practice\AddFirstCharToTheFrontAndBack\AddFirstCharToTheFrontAndBack\obj\Debug\AddFirstCharToTheFrontAndBack.csprojResolveAssemblyReference.cache
+C:\Users\Botond\Documents\GF\practice\AddFirstCharToTheFrontAndBack\AddFirstCharToTheFrontAndBack\obj\Debug\AddFirstCharToTheFrontAndBack.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\AddFirstCharToTheFrontAndBack\AddFirstCharToTheFrontAndBack\obj\Debug\AddFirstCharToTheFrontAndBack.exe
+C:\Users\Botond\Documents\GF\practice\AddFirstCharToTheFrontAndBack\AddFirstCharToTheFrontAndBack\obj\Debug\AddFirstCharToTheFrontAndBack.pdb
