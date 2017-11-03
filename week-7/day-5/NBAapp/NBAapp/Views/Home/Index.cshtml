@@ -10,9 +10,10 @@
     <h1><img src="~/Images/greenfox.png" /></h1>
     <h2>@Model.Name</h2>
     <h3>@Model.Fundation</h3>
-    <h4>@using (Html.BeginForm("action", "team"))
-    {
-        <input type="submit" value="Team Information" />
-    }</h4>
+    <form action="/teaminfo" method="post">
+    <div>
+        <button type="submit">Team Information</button>
+    </div>
+</form>
 </body>
 </html>

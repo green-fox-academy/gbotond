@@ -30,5 +30,19 @@ namespace NBAapp.Controllers
 
             return View(team);
         }
+
+        [HttpPost]
+        [Route("teaminfo")]
+        public IActionResult TeamInfo()
+        {
+            return RedirectToAction("teaminfo");
+        }
+
+        [HttpGet]
+        [Route("teaminfo")]
+        public IActionResult TeamInformation()
+        {
+            return View(team);
+        }
     }
 }

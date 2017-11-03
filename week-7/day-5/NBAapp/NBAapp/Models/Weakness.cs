@@ -7,6 +7,11 @@ namespace NBAapp.Models
 {
     public enum Weakness
     {
-        passing, defense, communication
+        Passing,
+        Defense,
+        Communication,
+        Shooting,
+        Rebounding,
+        Positioning
     }
 }

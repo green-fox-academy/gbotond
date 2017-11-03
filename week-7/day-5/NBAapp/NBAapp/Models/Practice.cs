@@ -7,6 +7,11 @@ namespace NBAapp.Models
 {
     public enum Practice
     {
-        PickandRoll, ZoneDefense
+        PickandRoll,
+        ZoneDefense,
+        Shooting,
+        Rebounding,
+        PostUp,
+        Passing
     }
 }

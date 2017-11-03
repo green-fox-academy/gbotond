@@ -1,0 +1,60 @@
+﻿@model NBAapp.Models.Team
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 600px;
+            height: 150px;
+            background-color: aquamarine;
+        }
+
+        table, th, td {
+            border: 3px solid black;
+        }
+    </style>
+</head>
+<body>
+    <style>
+        body {
+            background-image: url("http://www.lemessurier.com/sites/default/files/projectslides/td_garden_11.jpg");
+            background-size: 100% 100%;
+        }
+    </style>
+    <table>
+        <tr>
+            <td>Index</td>
+            <td>Name</td>
+            <td>Position</td>
+            <td>Age</td>
+            <td>Height</td>
+            <td>Weights</td>
+            <td>Status</td>
+            <td>Weakness</td>
+            <td>Practice</td>
+        </tr>
+        @{ int index = 0; }
+        @foreach (var player in Model.Players)
+            {
+            <tr>
+                <td>@(++index)</td>
+                <td>@player.Name</td>
+                <td>@player.Position</td>
+                <td>@player.Age</td>
+                <td>@player.Height.ToString("0.00") cm</td>
+                <td>@player.Weight.ToString() kg</td>
+                <td>@player.IsHealthy</td>
+                <td>@player.Weakness</td>
+                <td>@player.Practice</td>
+                @using (Html.BeginForm("action", "home"))
+                {
+                    <td><input type="submit" value="Train!" /></td>
+                }
+            </tr>
+        }
+    </table>
+
+</body>
+</html>
+
