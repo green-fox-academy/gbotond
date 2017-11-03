@@ -26,6 +26,6 @@ namespace NBAapp.Models
             IsHealthy = isHealthy;
             Weakness = weakness;
             Practice = practice;
-        }
+        }     
     }
 }

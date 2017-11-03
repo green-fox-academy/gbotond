@@ -5,9 +5,9 @@
     <style>
         table {
             border-collapse: collapse;
-            width: 600px;
-            height: 150px;
-            background-color: aquamarine;
+            width: 800px;
+            height: 200px;
+            background-color: whitesmoke;
         }
 
         table, th, td {
@@ -24,7 +24,7 @@
     </style>
     <table>
         <tr>
-            <td>Index</td>
+            <td>ID</td>
             <td>Name</td>
             <td>Position</td>
             <td>Age</td>
@@ -36,15 +36,15 @@
         </tr>
         @{ int index = 0; }
         @foreach (var player in Model.Players)
-            {
+         {
             <tr>
                 <td>@(++index)</td>
-                <td>@player.Name</td>
+                <td><a href="/player/profile/@player.Name">@player.Name;</a></td>
                 <td>@player.Position</td>
                 <td>@player.Age</td>
-                <td>@player.Height.ToString("0.00") cm</td>
+                <td>@player.Height.ToString("0.00") m</td>
                 <td>@player.Weight.ToString() kg</td>
-                <td>@player.IsHealthy</td>
+                <td>@((@player.IsHealthy) ? "Healthy" : "Injured")</td>
                 <td>@player.Weakness</td>
                 <td>@player.Practice</td>
                 @using (Html.BeginForm("action", "home"))
@@ -52,9 +52,8 @@
                     <td><input type="submit" value="Train!" /></td>
                 }
             </tr>
-        }
+         }
     </table>
-
 </body>
 </html>
 
