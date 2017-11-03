@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageOfInputNumbers", "AverageOfInputNumbers\AverageOfInputNumbers.csproj", "{410DE90F-08E2-4E8C-88A8-A1D972D0ABE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410DE90F-08E2-4E8C-88A8-A1D972D0ABE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410DE90F-08E2-4E8C-88A8-A1D972D0ABE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410DE90F-08E2-4E8C-88A8-A1D972D0ABE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410DE90F-08E2-4E8C-88A8-A1D972D0ABE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D048FFFF-DA5B-4705-A6F6-633BFD59F46A}
+	EndGlobalSection
+EndGlobal

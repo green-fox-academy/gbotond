@@ -1,0 +1,6 @@
+C:\Users\Botond\Documents\GF\practice\AverageOfInputNumbers\AverageOfInputNumbers\bin\Debug\AverageOfInputNumbers.exe.config
+C:\Users\Botond\Documents\GF\practice\AverageOfInputNumbers\AverageOfInputNumbers\bin\Debug\AverageOfInputNumbers.exe
+C:\Users\Botond\Documents\GF\practice\AverageOfInputNumbers\AverageOfInputNumbers\bin\Debug\AverageOfInputNumbers.pdb
+C:\Users\Botond\Documents\GF\practice\AverageOfInputNumbers\AverageOfInputNumbers\obj\Debug\AverageOfInputNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\AverageOfInputNumbers\AverageOfInputNumbers\obj\Debug\AverageOfInputNumbers.exe
+C:\Users\Botond\Documents\GF\practice\AverageOfInputNumbers\AverageOfInputNumbers\obj\Debug\AverageOfInputNumbers.pdb
