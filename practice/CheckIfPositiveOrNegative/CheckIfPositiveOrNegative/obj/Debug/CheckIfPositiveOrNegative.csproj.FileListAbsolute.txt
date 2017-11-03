@@ -1,0 +1,7 @@
+C:\Users\Botond\Documents\GF\practice\CheckIfPositiveOrNegative\CheckIfPositiveOrNegative\obj\Debug\CheckIfPositiveOrNegative.csprojResolveAssemblyReference.cache
+C:\Users\Botond\Documents\GF\practice\CheckIfPositiveOrNegative\CheckIfPositiveOrNegative\obj\Debug\CheckIfPositiveOrNegative.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\CheckIfPositiveOrNegative\CheckIfPositiveOrNegative\bin\Debug\CheckIfPositiveOrNegative.exe.config
+C:\Users\Botond\Documents\GF\practice\CheckIfPositiveOrNegative\CheckIfPositiveOrNegative\bin\Debug\CheckIfPositiveOrNegative.exe
+C:\Users\Botond\Documents\GF\practice\CheckIfPositiveOrNegative\CheckIfPositiveOrNegative\bin\Debug\CheckIfPositiveOrNegative.pdb
+C:\Users\Botond\Documents\GF\practice\CheckIfPositiveOrNegative\CheckIfPositiveOrNegative\obj\Debug\CheckIfPositiveOrNegative.exe
+C:\Users\Botond\Documents\GF\practice\CheckIfPositiveOrNegative\CheckIfPositiveOrNegative\obj\Debug\CheckIfPositiveOrNegative.pdb
