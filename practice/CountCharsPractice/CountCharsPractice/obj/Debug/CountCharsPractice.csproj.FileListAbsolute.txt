@@ -1,0 +1,7 @@
+C:\Users\Botond\Documents\GF\practice\CountCharsPractice\CountCharsPractice\bin\Debug\CountCharsPractice.exe.config
+C:\Users\Botond\Documents\GF\practice\CountCharsPractice\CountCharsPractice\bin\Debug\CountCharsPractice.exe
+C:\Users\Botond\Documents\GF\practice\CountCharsPractice\CountCharsPractice\bin\Debug\CountCharsPractice.pdb
+C:\Users\Botond\Documents\GF\practice\CountCharsPractice\CountCharsPractice\obj\Debug\CountCharsPractice.csprojResolveAssemblyReference.cache
+C:\Users\Botond\Documents\GF\practice\CountCharsPractice\CountCharsPractice\obj\Debug\CountCharsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\CountCharsPractice\CountCharsPractice\obj\Debug\CountCharsPractice.exe
+C:\Users\Botond\Documents\GF\practice\CountCharsPractice\CountCharsPractice\obj\Debug\CountCharsPractice.pdb
