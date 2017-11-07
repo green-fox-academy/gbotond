@@ -1,0 +1,11 @@
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\bin\Debug\netcoreapp1.1\RestBackendApp.deps.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\bin\Debug\netcoreapp1.1\RestBackendApp.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\bin\Debug\netcoreapp1.1\RestBackendApp.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\bin\Debug\netcoreapp1.1\RestBackendApp.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\bin\Debug\netcoreapp1.1\RestBackendApp.pdb
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.pdb
