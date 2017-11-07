@@ -15,5 +15,23 @@ namespace RestBackendApp.Controllers
         {
             return File("index.html", "text/html");
         }
+
+        [HttpGet]
+        [Route("/doubling")]
+        public IActionResult Doubling(int? input)
+        {
+            if (input == null)
+            {
+                return Json(new { error = "Please provide an input!" });
+            }
+            return Json(new { received = input, result = input * 2 });
+        }
+
+        [HttpGet]
+        [Route("greeter")]
+        public IActionResult Greeter(string name, string title)
+        {
+            return Json(new { received = name, title,  result = $"Oh hi th })
+        }
     }
 }
