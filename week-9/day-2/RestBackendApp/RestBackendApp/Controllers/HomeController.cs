@@ -28,10 +28,21 @@ namespace RestBackendApp.Controllers
         }
 
         [HttpGet]
-        [Route("greeter")]
+        [Route("/greeter")]
         public IActionResult Greeter(string name, string title)
         {
-            return Json(new { received = name, title,  result = $"Oh hi th })
+            if (name == null)
+            {
+                return Json(new { error = "Please provide a name!" });
+            }
+            else if (title == null)
+            {
+                return Json(new { error = "Please provide a title!" });
+            }
+            else
+            {
+                return Json(new { welcome_message = $"Oh, hi there {name}, my dear {title}!" });
+            }
         }
     }
 }
