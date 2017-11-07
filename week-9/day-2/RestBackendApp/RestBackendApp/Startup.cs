@@ -30,6 +30,8 @@ namespace RestBackendApp
             }
 
             app.UseMvc();
+            app.UseStaticFiles();
+            app.UseDefaultFiles();
 
             app.Run(async (context) =>
             {

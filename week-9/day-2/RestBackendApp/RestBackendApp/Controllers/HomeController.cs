@@ -13,7 +13,7 @@ namespace RestBackendApp.Controllers
         [Route("/")]
         public IActionResult Index()
         {
-            return View();
+            return File("index.html", "text/html");
         }
     }
 }
