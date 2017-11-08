@@ -88,5 +88,30 @@ namespace RestBackendApp.Controllers
                 return Json(new { error = "Please provide a number!" });
             }
         }
+
+        [HttpPost]
+        [Route("/arrays")]
+        public IActionResult ArrayHandler([FromBody] ArrayObject arrayObject)
+        {
+            if (arrayObject.Operation == "Sum")
+            {
+                int result = arrayObject.Sum(arrayObject.Numbers);
+                return Json(new { result = result });
+            }
+            else if (arrayObject.Operation == "Multiply")
+            {
+                int result = arrayObject.Multiply(arrayObject.Numbers);
+                return Json(new { result = result });
+            }
+            else if (arrayObject.Operation == "Double")
+            {
+                int[] result = arrayObject.Double(arrayObject.Numbers);
+                return Json(new { result = result });
+            }
+            else
+            {
+                return Json(new { error = "Please provide what to do with the numbers!" });
+            }
+        }
     }
 }
