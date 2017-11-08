@@ -37,5 +37,13 @@ namespace RestBackendApp.IntegrationTests
 
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
+
+        [Fact]
+        public async Task ReturnOkStatusForArray()
+        {
+            var response = await Client.GetAsync("/array");
+
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
     }
 }
