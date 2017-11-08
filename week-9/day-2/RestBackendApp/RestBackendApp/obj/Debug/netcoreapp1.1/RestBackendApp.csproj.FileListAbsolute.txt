@@ -8,3 +8,4 @@ C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\
 C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\bin\Debug\netcoreapp1.1\RestBackendApp.pdb
 C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.dll
 C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.pdb
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp\obj\Debug\netcoreapp1.1\RestBackendApp.csprojResolveAssemblyReference.cache

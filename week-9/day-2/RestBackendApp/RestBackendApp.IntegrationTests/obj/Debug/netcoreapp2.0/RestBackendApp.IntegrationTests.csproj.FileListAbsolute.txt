@@ -1,0 +1,16 @@
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\obj\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\obj\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\obj\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\obj\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.deps.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\RestBackendApp.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\RestBackendApp.pdb
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\bin\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.pdb
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\obj\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-2\RestBackendApp\RestBackendApp.IntegrationTests\obj\Debug\netcoreapp2.0\RestBackendApp.IntegrationTests.pdb
