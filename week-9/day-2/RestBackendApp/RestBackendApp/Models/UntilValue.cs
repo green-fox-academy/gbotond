@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace RestBackendApp.Models
 {
-    public class JsonObject
+    public class UntilValue
     {
-        public int Until { get; set; }
+        public int? Until { get; set; }
     }
 }

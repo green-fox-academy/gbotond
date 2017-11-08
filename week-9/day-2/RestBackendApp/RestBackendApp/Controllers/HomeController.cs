@@ -63,12 +63,12 @@ namespace RestBackendApp.Controllers
         [HttpPost]
         [Route("/dountil/{what}")]
         [Route("/dountil/")]
-        public IActionResult DoUntil([FromBody] JsonObject jsonObject, string what)
+        public IActionResult DoUntil([FromBody] UntilValue untilValue, string what)
         {
             if (what == "sum")
             {
                 int sum = 0;
-                for (int i = 1; i < jsonObject.Until + 1; i++)
+                for (int i = 1; i < untilValue.Until + 1; i++)
                 {
                     sum += i;
                 }
@@ -77,7 +77,7 @@ namespace RestBackendApp.Controllers
             else if (what == "factor")
             {
                 int factorial = 1;
-                for (int i = 1; i < jsonObject.Until + 1; i++)
+                for (int i = 1; i < untilValue.Until + 1; i++)
                 {
                     factorial *= i;
                 }
