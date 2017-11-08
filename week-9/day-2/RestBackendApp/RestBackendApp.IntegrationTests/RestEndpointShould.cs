@@ -29,5 +29,13 @@ namespace RestBackendApp.IntegrationTests
 
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
+
+        [Fact]
+        public async Task ReturnOkStatusForGreeter()
+        {
+            var response = await Client.GetAsync("/greeter");
+
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
     }
 }
