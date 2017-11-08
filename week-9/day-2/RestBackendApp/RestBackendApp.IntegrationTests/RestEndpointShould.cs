@@ -39,6 +39,30 @@ namespace RestBackendApp.IntegrationTests
         }
 
         [Fact]
+        public async Task ReturnOkStatusForDoUntil()
+        {
+            var response = await Client.GetAsync("/dountil/{what}");
+
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task ReturnOkStatusForAppenda()
+        {
+            var response = await Client.GetAsync("/appenda/{appendable}");
+
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task ReturnNotFoundForAppenda()
+        {
+            var response = await Client.GetAsync("/appenda");
+
+            Assert.Equal(HttpStatusCode.NotFound, response.StatusCode);
+        }
+
+        [Fact]
         public async Task ReturnOkStatusForArray()
         {
             var response = await Client.GetAsync("/array");
