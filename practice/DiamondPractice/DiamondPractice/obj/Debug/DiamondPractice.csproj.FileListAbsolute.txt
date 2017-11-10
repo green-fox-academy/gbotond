@@ -1,0 +1,7 @@
+C:\Users\Botond\Documents\GF\practice\DiamondPractice\DiamondPractice\bin\Debug\DiamondPractice.exe.config
+C:\Users\Botond\Documents\GF\practice\DiamondPractice\DiamondPractice\bin\Debug\DiamondPractice.exe
+C:\Users\Botond\Documents\GF\practice\DiamondPractice\DiamondPractice\bin\Debug\DiamondPractice.pdb
+C:\Users\Botond\Documents\GF\practice\DiamondPractice\DiamondPractice\obj\Debug\DiamondPractice.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\GF\practice\DiamondPractice\DiamondPractice\obj\Debug\DiamondPractice.exe
+C:\Users\Botond\Documents\GF\practice\DiamondPractice\DiamondPractice\obj\Debug\DiamondPractice.pdb
+C:\Users\Botond\Documents\GF\practice\DiamondPractice\DiamondPractice\obj\Debug\DiamondPractice.csprojResolveAssemblyReference.cache
