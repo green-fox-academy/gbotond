@@ -1,0 +1,21 @@
+﻿@model NBAapp.Models.Player
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="/teaminfo/add" method="post">
+        Name<input type="text" name="Name" value="@Model.Name">
+        Position<input type="text" name="Position" value="@Model.Position">
+        Age<input type="text" name="Age" value="@Model.Age">
+        Height<input type="text" name="Height" value="@Model.Height">
+        Weight<input type="text" name="Weight" value="@Model.Weight">
+        Ishealthy<input type="text" name="Status" value="@Model.IsHealthy">
+        Weakness<input type="text" name="Weakness" value="@Model.Weakness">
+        Practice<input type="text" name="Practice" value="@Model.Practice">
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</body>
+</html>

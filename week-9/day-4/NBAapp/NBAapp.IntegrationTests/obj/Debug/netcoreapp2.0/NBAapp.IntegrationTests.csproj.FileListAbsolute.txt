@@ -1,0 +1,16 @@
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\NBAapp.IntegrationTests.deps.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\NBAapp.IntegrationTests.runtimeconfig.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\NBAapp.IntegrationTests.runtimeconfig.dev.json
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\NBAapp.IntegrationTests.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\NBAapp.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\NBAapp.pdb
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\obj\Debug\netcoreapp2.0\NBAapp.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\obj\Debug\netcoreapp2.0\NBAapp.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\obj\Debug\netcoreapp2.0\NBAapp.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\obj\Debug\netcoreapp2.0\NBAapp.IntegrationTests.AssemblyInfo.cs
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\bin\Debug\netcoreapp2.0\NBAapp.IntegrationTests.pdb
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\obj\Debug\netcoreapp2.0\NBAapp.IntegrationTests.dll
+C:\Users\Botond\greenfox\gbotond\week-9\day-4\NBAapp\NBAapp.IntegrationTests\obj\Debug\netcoreapp2.0\NBAapp.IntegrationTests.pdb

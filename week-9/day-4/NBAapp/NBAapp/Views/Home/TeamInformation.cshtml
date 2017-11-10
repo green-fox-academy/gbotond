@@ -1,0 +1,73 @@
+﻿@model List<NBAapp.Models.Player>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 800px;
+            height: 200px;
+            background-color: #fff;
+        }
+
+        table, th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        tr:hover {
+            background-color: #f5f5f5
+        }
+    </style>
+</head>
+<body>
+    <style>
+        body {
+            background-image: url("http://www.lemessurier.com/sites/default/files/projectslides/td_garden_11.jpg");
+            background-size: 100% 100%;
+        }
+    </style>
+    <table>
+        <tr>
+            <td>ID</td>
+            <td>Name</td>
+            <td>Position</td>
+            <td>Age</td>
+            <td>Height</td>
+            <td>Weight</td>
+            <td>Status</td>
+            <td>Weakness</td>
+            <td>Practice</td>
+        </tr>
+        @{ int index = 0; }
+        @foreach (var player in Model)
+         {
+            <tr>
+                <td>@(++index)</td>
+                <td><a href="/player/profile/@player.Name">@player.Name;</a></td>
+                <td>@player.Position</td>
+                <td>@player.Age</td>
+                <td>@player.Height.ToString() cm</td>
+                <td>@player.Weight.ToString() kg</td>
+                <td>@((@player.IsHealthy) ? "Healthy" : "Injured")</td>
+                <td>@player.Weakness</td>
+                <td>@player.Practice</td>
+                <td>
+                    <form action="/(@player.Name)/delete" method="post">
+                        <input type="hidden" name="Name" value="@player.Name" />
+                        <button id="table" class="btn btn-lg active btn-primary" type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+         }
+    </table>
+    <div>
+        <form action="/teaminfo/add" method="get">
+            <div>
+                <button type="submit">Add player</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
