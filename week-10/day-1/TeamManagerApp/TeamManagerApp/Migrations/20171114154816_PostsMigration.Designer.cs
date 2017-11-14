@@ -9,9 +9,10 @@ using TeamManagerApp.Models;
 namespace TeamManagerApp.Migrations
 {
     [DbContext(typeof(TeamManagerContext))]
-    partial class TeamManagerContextModelSnapshot : ModelSnapshot
+    [Migration("20171114154816_PostsMigration")]
+    partial class PostsMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.3")

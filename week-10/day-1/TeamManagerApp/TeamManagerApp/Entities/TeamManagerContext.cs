@@ -10,5 +10,7 @@ namespace TeamManagerApp.Entities
         }
 
         public DbSet<Player> Players { get; set; }
+        public DbSet<Post> Posts { get; set; }
+        //public DbSet<Player> Stats { get; set; }
     }
 }

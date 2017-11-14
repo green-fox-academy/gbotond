@@ -13,13 +13,11 @@ namespace TeamManagerApp.Controllers
     [Route("/home")]
     public class HomeController : Controller
     {
-        Team team;
         TeamManagerRepository TeamManagerRepository;
 
-        public HomeController(Team team, TeamManagerRepository teamManagerRepository)
+        public HomeController(TeamManagerRepository teamManagerRepository)
         {
             TeamManagerRepository = teamManagerRepository;
-            this.team = team;
         }
 
         [HttpPost]
@@ -33,7 +31,7 @@ namespace TeamManagerApp.Controllers
         [Route("/home")]
         public IActionResult Home()
         {
-            return View();
+            return View(TeamManagerRepository.GetPost());
         }
 
         [HttpPost]
@@ -62,6 +60,15 @@ namespace TeamManagerApp.Controllers
         public IActionResult Add(Player player)
         {
             TeamManagerRepository.AddPlayer(player);
+            return RedirectToAction("TeamInformation");
+        }
+
+
+        [Route("/{name}/delete")]
+        [HttpPost]
+        public IActionResult Delete(string name)
+        {
+            TeamManagerRepository.DeletePlayer(name);
             return RedirectToAction("TeamInformation");
         }
     }

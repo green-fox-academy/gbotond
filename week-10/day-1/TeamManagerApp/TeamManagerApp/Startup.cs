@@ -30,8 +30,6 @@ namespace TeamManagerApp
             services.AddMvc();
             services.AddDbContext<TeamManagerContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:TMConnection"]));
             services.AddScoped<TeamManagerRepository>();
-            services.AddSingleton<Models.Team>();
-            services.AddScoped<Models.Player>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

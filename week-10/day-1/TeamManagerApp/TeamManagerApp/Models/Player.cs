@@ -16,5 +16,11 @@ namespace TeamManagerApp.Models
         public bool IsHealthy { get; set; } = true;
         public Weakness Weakness { get; set; }
         public Practice Practice { get; set; }
+        //public double PPG { get; set; }
+        //public double FGP { get; set; }
+        //public double ThreePTP { get; set; }
+        //public double Assist { get; set; }
+        //public double Steal { get; set; }
+        //public double Rebound { get; set; }
     }
 }
