@@ -1,0 +1,45 @@
+﻿@model TeamManagerApp.Models.Player
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        body {
+            background-color: #ccc;
+        }
+        input[type=text], select {
+            width: 50%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+            input[type=submit]:hover {
+                background-color: #45a049;
+            }
+
+        div {
+            border-radius: 5px;
+            background-color: #ccc;
+            padding: 20px;
+        }
+    </style>
+    <title>Add Player</title>
+</head>
+<body>
+    <form action="/teaminfo/add" method="post">
+        Name<br><input type="text" name="Name" value="@Model.Name"><br>
+        Position<br><input type="text" name="Position" value="@Model.Position"><br>
+        Age<br><input type="text" name="Age" value="@Model.Age"><br>
+        Height<br><input type="text" name="Height" value="@Model.Height"><br>
+        Weight<br><input type="text" name="Weight" value="@Model.Weight"><br>
+        Ishealthy<br><input type="text" name="Status" value="@Model.IsHealthy"><br>
+        Weakness<br><input type="text" name="Weakness" value="@Model.Weakness"><br>
+        Practice<br><input type="text" name="Practice" value="@Model.Practice"><br>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</body>
+</html>
