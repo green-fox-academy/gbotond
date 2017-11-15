@@ -19,6 +19,11 @@ namespace GreenfoxQuizApp.Repositories
         public List<Text> GetList()
         {
             return GreenfoxQuizAppContext.Texts.ToList();
+        }      
+
+        public List<Text> GetRandomList()
+        {
+            return GreenfoxQuizAppContext.Texts.OrderBy(r => Guid.NewGuid()).Take(5).ToList();
         }
     }
 }
