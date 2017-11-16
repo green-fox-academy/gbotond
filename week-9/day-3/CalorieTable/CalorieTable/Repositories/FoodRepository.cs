@@ -27,6 +27,7 @@ namespace CalorieTable.Repositories
             FoodContext.SaveChanges();
         }
 
+        
         public Food GetId(long id)
         {
             return FoodContext.Foods.FirstOrDefault(f => f.Id == id);
