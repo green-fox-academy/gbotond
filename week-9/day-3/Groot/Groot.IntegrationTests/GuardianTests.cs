@@ -20,9 +20,17 @@ namespace Groot.IntegrationTests
         }
 
         [Fact]
-        public async Task IndexShouldReturnOkStatus()
+        public async Task IndexShouldReturnNotFound()
         {
             var response = await Client.GetAsync("/groot");
+
+            Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task IndexShouldReturnOkStatus()
+        {
+            var response = await Client.GetAsync("/groot?message=test");
 
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }

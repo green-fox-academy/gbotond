@@ -11,18 +11,25 @@ namespace Groot.Controllers
     public class GuardianController : Controller
     {
         [HttpGet]
-        [Route("/groot")]
-        [Route("/groot/{message}")]
+        [Route("/groot/{message?}")]
         public IActionResult Index(string message)
         {
             if (message == null)
             {
-                return Json(new { error = "I am Groot!" });
+                return BadRequest(new { error = "I am Groot!" });
             }
             else
             {
                 return Json(new { received = message, translated = "I am Groot!" });
             }
         }
+
+        //[HttpGet]
+        //[Route("/yondu")]
+        //public IActionResult Yondu(double distance, double time)
+        //{
+        //    var yondu = new Yondu() { Distance = distance, Time = time, Speed = distance / time };
+        //    return Json(yondu);
+        //}
     }
 }
