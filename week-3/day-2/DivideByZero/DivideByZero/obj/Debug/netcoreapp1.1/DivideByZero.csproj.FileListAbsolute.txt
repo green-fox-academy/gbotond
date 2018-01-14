@@ -8,3 +8,4 @@ C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debu
 C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.AssemblyInfo.cs
 C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.dll
 C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.pdb
+C:\Users\Botond\greenfox\gbotond\week-3\day-2\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.AssemblyInfoInputs.cache

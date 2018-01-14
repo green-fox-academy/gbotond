@@ -17,17 +17,13 @@ namespace DivideByZero
                 int result = 10 / divisor;
                 Console.WriteLine(result);
             }
-            catch (DivideByZeroException error)
+            catch (DivideByZeroException)
             {
                 Console.WriteLine("Can't divide by zero!");
             }
-            catch (Exception error)
+            catch (FormatException)
             {
-                Console.WriteLine("Damn! Something wrong happened!");
-            }
-            finally
-            {
-                Console.ReadLine();
+                Console.WriteLine("Wrong input format!");
             }
         }
     }
