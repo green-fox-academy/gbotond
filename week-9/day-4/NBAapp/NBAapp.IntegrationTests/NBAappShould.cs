@@ -4,9 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using NBAapp.Entities;
 using NBAapp.Models;
 using NBAapp.Repositories;
-using System;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Xunit;
@@ -23,23 +21,6 @@ namespace NBAapp.IntegrationTests
             Server = new TestServer(new WebHostBuilder().UseStartup<Startup>());
             Client = Server.CreateClient();
         }
-
-        //[Fact]
-        //public async Task ReturnOkStatusForTeamInfo()
-        //{
-        //    var response = await Client.GetAsync("/teaminfo");
-
-        //    Assert.Equal(HttpStatusCode.OK, response.StatusCode);
-        //}
-
-        //[Fact]
-        //public async Task ReturnNotFoundStatusWithWrongRoute()
-        //{
-        //    var response = await Client.GetAsync("/teminfo");
-        //    string responseJson = await response.Content.ReadAsStringAsync();
-
-        //    Assert.Equal(HttpStatusCode.NotFound, response.StatusCode);
-        //}
 
         [Fact]
         public async Task AddPlayer()
